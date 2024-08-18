@@ -1,0 +1,19 @@
+-rw------- 1 root root 830M Dec  8 16:12 /home/kos/control/core.6665
+-rw------- 1 root root 1.8G Dec 16 05:34 /home/kos/management/core.6801
+-rw------- 1 root root 5.2G Dec  8 15:02 /home/kos/replication/core.19134
+-rw------- 1 root root 4.7G Dec  8 15:03 /home/kos/replication/core.7135
+********************/home/kos/cli/result.log. *zip ****************************** 
+********************/home/kos/cli/result.log. *zip ****************************** 
+********************/home/kos/cli/result.log. *zip ****************************** 
+********************/home/kos/cli/result.log. *zip ****************************** 
+********************/home/kos/cli/result.log. *zip ****************************** 
+********************/home/kos/cli/result.log. *zip ****************************** 
+********************/home/kos/cli/result.log. *zip ****************************** 
+********************/home/kos/cli/result.log. *zip ****************************** 
+********************/home/kos/cli/result.log. *zip ****************************** 
+********************/home/kos/cli/result.log. *zip ****************************** 
+********************/home/kos/cli/result.log. *zip ****************************** 
+********************/home/kos/cli/result.log. *zip ****************************** 
+********************/home/kos/cli/result.log. *zip ****************************** 
+********************/home/kos/cli/result.log. *zip ****************************** 
+********************/home/kos/cli/result.log. *zip ****************************** 

@@ -1,0 +1,2 @@
+-rwxr-xr-x 1 root root 976K Mar  6 14:43 /home/kos/replication/rp_core.10492.gz
+-rwxr-xr-x 1 root root 1.7G Mar  6 14:14 /home/kos/replication/rp_core.5770

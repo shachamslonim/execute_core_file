@@ -1,0 +1,4 @@
+plink.exe -pw admin -ssh root@10.228.147.84 gunzip /home/kos/replication/rp_core.2913.gz
+plink.exe -pw admin -ssh root@10.228.147.84 gdb /usr/sbin/replication --core /home/kos/replication/rp_core.2913 --batch --quiet  -ex 'set logging on'  -ex 'info thread' -ex 'where' -ex 'thread apply all bt full' -ex 'quit'  > 10.228.147.84\1020M_May__8_06_37__replication_rp_core.2913.gz.txt_FULL
+plink.exe -pw admin -ssh root@10.228.147.84 gdb /usr/sbin/replication --core /home/kos/replication/rp_core.2913 --batch --quiet -ex 'info thread' -ex 'where' -ex 'thread apply all bt' -ex 'quit'  > 10.228.147.84\1020M_May__8_06_37__replication_rp_core.2913.gz.txt
+plink.exe -pw admin -ssh root@10.228.147.84 /usr/bin/strings /home/kos/replication/rp_core.2913  >> 10.228.147.84\1020M_May__8_06_37__replication_rp_core.2913.gz.txt_strings

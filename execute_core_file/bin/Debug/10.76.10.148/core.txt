@@ -1,0 +1,2 @@
+-rw------- 1 root root 458M Jan  7 00:57 /home/kos/management/core.22205
+-rw------- 1 root root 462M Jan  3 05:07 /home/kos/management/core.7153

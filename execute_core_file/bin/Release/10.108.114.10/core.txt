@@ -1,0 +1,7 @@
+-rw-r--r-- 1 root root 1.9M Jun 17 04:57 /home/kos/replication/rp_core.4266.gz
+-rw------- 1 root root 576M Jun 26 06:36 /home/kos/replication/core.26933
+-rw-r--r-- 1 root root 4.2M Jun 16 09:19 /home/kos/replication/rp_core.6784.gz
+-rw------- 1 root root 1.5G Jun 20 18:50 /home/kos/replication/core.7614
+-rw------- 1 root root 1.9M Jun 18 09:51 /home/kos/replication/yael/rp_core.4266.gz
+-rw------- 1 root root 4.2M Jun 18 09:51 /home/kos/replication/yael/rp_core.6784.gz
+-rw------- 1 root root 1.7G Jun 18 09:49 /home/kos/replication/yael/rp_core.6784

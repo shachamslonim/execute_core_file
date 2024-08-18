@@ -1,0 +1,3 @@
+-rw-r--r-- 1 root root 2.6M Mar  5 14:59 /home/kos/storage/rp_core.10865.gz
+-rw-r--r-- 1 root root 2.6M Mar  5 15:13 /home/kos/storage/rp_core.10456.gz
+-rw-r--r-- 1 root root 2.6M Mar  5 15:14 /home/kos/storage/rp_core.11671.gz

@@ -1,0 +1,2 @@
+-rw------- 1 root root 6.0G Jun 25 08:55 /home/kos/replication/core.6279
+-rw------- 1 root root 5.9G Jun 25 23:45 /home/kos/replication/core.26292

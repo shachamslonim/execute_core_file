@@ -1,0 +1,1 @@
+plink.exe -pw q -ssh root@10.76.10.149 gdb /home/kos/kashya/archive/bin/release/management_server --core /home/kos/management/core.7158 --batch --quiet -ex 'info thread' -ex 'thread apply all bt full' -ex 'quit'  > 6__Jan_490M_ management_core.7158

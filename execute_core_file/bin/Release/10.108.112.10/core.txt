@@ -1,0 +1,4 @@
+-rw------- 1 root root 5.8G Jun 26 02:50 /home/kos/replication/core.29792
+-rw------- 1 root root 5.6G Jun 25 10:35 /home/kos/replication/core.5675
+-rw-r--r-- 1 root root 4.1M Jun 17 07:15 /home/kos/replication/rp_core.20735.gz
+-rw-r--r-- 1 root root 4.1M Jun 16 21:16 /home/kos/replication/rp_core.6690.gz

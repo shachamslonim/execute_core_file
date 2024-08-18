@@ -1,0 +1,1 @@
+-rw------- 1 root root 1020M May  8 06:37 /home/kos/replication/rp_core.2913.gz
